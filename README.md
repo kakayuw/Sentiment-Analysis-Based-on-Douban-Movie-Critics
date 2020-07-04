@@ -1,5 +1,5 @@
 # Sentiment Analysis based on Douban Critics
-This project was the final project of `Data Mining and Data warehouse`, which originally require students to crawl and analyze user critics data containing sentiment moods like positive mood or negative mood on weibo website. Due to ip address limitation and other conditions, I use user critics on movie topic on Douban website instead. It provides user scoring data on movie serving as supervising training and testing data.
+This project was the final project of `Data Mining and Data warehouse`, which originally require students to crawl and analyze user critics data containing sentiment moods like positive mood or negative mood on weibo website. Due to ip address limitation and other conditions, I use user critics on movie topic on Douban website instead. It provides user scoring data on movie serving as supervised training and testing data.
 ***
 	
 |Author|Programming Language| GUI| Time|
